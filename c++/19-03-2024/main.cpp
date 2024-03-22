@@ -45,7 +45,7 @@ int main() // Função principal do programa.
 
     cout << "User1: " << user1.getName() << ", " << user1.getAge() << " anos, " << user1.getEmail(); // Imprime os detalhes do usuário 1.
     cout << "\n###############################################################\n"; // Imprime uma linha divisória.
-    cout << "User2: " << user2->getName() << ", " << user2->getAge() << " anos, " << user2->getEmail(); // Imprime os detalhes do usuário 2.
+    cout << "User2: " << user2->getName() << ", " << user2->getAge() << " anos, " << user2->getEmail(); << "\n"// Imprime os detalhes do usuário 2.
 
     return 0; // Retorna 0 para indicar que o programa foi concluído com sucesso.
 }
