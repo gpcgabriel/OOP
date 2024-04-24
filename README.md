@@ -20,7 +20,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd c++/tarefa#3
+  cd OOP/c++/tarefa#3
 ```
 
 Build the project
